@@ -1,2 +1,2 @@
-# basicHTMLFunctionalities
-designed only with the help of HTML and CSS
+
+# designed only with the help of HTML and CSS
